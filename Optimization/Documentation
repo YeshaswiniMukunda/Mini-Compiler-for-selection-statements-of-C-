@@ -1,0 +1,2 @@
+This file implements constant propagation and constant folding on the code that generates the three address code. These are the two optimizations we have performed for our code.
+It requires the lex file and other header files that are present in the Intermediate Code Generation folder in order to run.
