@@ -1,0 +1,64 @@
+
+#include<"new.h">
+#include<"conio.h">
+class boss  { 
+private:
+ int acasdf;
+public:
+ int lsafd;
+ void fn1()  {
+  cout << "fn1 myClass " << endl;
+  }
+  void f()
+  {
+  cout<<"H"<<endl;
+  }
+  };
+void main() {
+int a0,b;
+float c;
+ int k;
+ int h;
+double d;
+int j;
+if(a==0)
+ {
+  a=9;
+ h=1;
+ k=a*h;
+ }
+else if(s<=7)
+ {
+ s=2;
+ b=1;
+ c=2;
+ p=c/s;
+ }
+else if(p>= 9)
+ {
+ ad=8;
+ }
+else  {
+ j=4;
+ switch(a)
+ {
+ case 8:if(a==0)
+ {
+ a=9;
+ s=j+a;
+ }
+ break;
+ case 7 :e=9;
+ }
+ }
+switch(a)
+ {
+ case 8:if(a==0)
+ {
+ a=9;
+ }
+ break;
+ case 7 :e=9;
+ }
+cout<<"happy"<<endl;
+cin>>a; }
